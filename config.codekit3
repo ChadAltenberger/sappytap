@@ -29,19 +29,6 @@
       "oAP" : "\/dist\/dist",
       "oF" : 0
     },
-    "\/icon.png" : {
-      "ft" : 32768,
-      "iS" : 33114,
-      "oA" : 1,
-      "oAP" : "\/dist\/icon.png",
-      "oF" : 1,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 80,
-      "rq" : 75
-    },
     "\/node_modules" : {
       "ft" : 65536,
       "oA" : 2,
@@ -82,6 +69,19 @@
       "pME" : 1,
       "rFN" : 0,
       "uCM" : 0
+    },
+    "\/sappy-icon.png" : {
+      "ft" : 32768,
+      "iS" : 514301,
+      "oA" : 0,
+      "oAP" : "\/dist\/sappy-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
     },
     "\/src\/assets\/fonts\/bootstrap-icons.woff" : {
       "cB" : 0,
@@ -141,11 +141,122 @@
       "oAP" : "\/dist\/assets\/fonts\/fa-brands-400.woff2",
       "oF" : 0
     },
-    "\/src\/assets\/img\/sam-flag.svg" : {
+    "\/src\/assets\/img\/bottle-and-can.png" : {
+      "ft" : 32768,
+      "iS" : 999471,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/bottle-and-can.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/essence-bg-lg.jpg" : {
+      "ft" : 16384,
+      "iS" : 2086778,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/essence-bg-lg.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/essence-bg-sm.jpg" : {
+      "ft" : 16384,
+      "iS" : 266905,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/essence-bg-sm.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/find-bg-lg.jpg" : {
+      "ft" : 16384,
+      "iS" : 559203,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/find-bg-lg.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/find-bg-sm.jpg" : {
+      "ft" : 16384,
+      "iS" : 184877,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/find-bg-sm.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/logos\/47C85E33C02782F7.png" : {
+      "ft" : 32768,
+      "iS" : 13142,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/logos\/47C85E33C02782F7.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/logos\/essence.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/assets\/img\/sam-flag.svg",
+      "oAP" : "\/dist\/assets\/img\/logos\/essence.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/src\/assets\/img\/logos\/leaf-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/logos\/leaf-logo.svg",
+      "oF" : 0,
+      "opt" : 1,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
+    "\/src\/assets\/img\/logos\/tap-handle.png" : {
+      "ft" : 32768,
+      "iS" : 130318,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/logos\/tap-handle.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/logos\/word-mark.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/logos\/word-mark.svg",
       "oF" : 0,
       "opt" : 1,
       "plM" : 3758088159,
@@ -222,7 +333,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/dist\/assets\/js\/js\/responsive-video.js",
       "oF" : 0,
       "sC" : 3,
@@ -244,7 +355,7 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dist\/assets\/js\/js\/trigger-popup.js",
       "oF" : 0,
       "sC" : 3,
@@ -15692,6 +15803,38 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/src\/assets\/video\/header-vid-426.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/assets\/video\/header-vid-426.mp4",
+      "oF" : 0
+    },
+    "\/src\/assets\/video\/header-vid-640.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/assets\/video\/header-vid-640.mp4",
+      "oF" : 0
+    },
+    "\/src\/assets\/video\/header-vid-960.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/assets\/video\/header-vid-960.mp4",
+      "oF" : 0
+    },
+    "\/src\/assets\/video\/header-vid-1280.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/assets\/video\/header-vid-1280.mp4",
+      "oF" : 0
+    },
     "\/src\/error.kit" : {
       "cB" : 1,
       "ft" : 2048,
@@ -15727,8 +15870,8 @@
     "creationDate" : 499370232,
     "displayValue" : "sappytap",
     "displayValueWasSetByUser" : 0,
-    "iconImageName" : "\/icon.png",
-    "iconImageWasSetByUser" : 0,
+    "iconImageName" : "\/sappy-icon.png",
+    "iconImageWasSetByUser" : 1,
     "lastBuiltDate" : 716563277.12440097
   },
   "projectSettings" : {

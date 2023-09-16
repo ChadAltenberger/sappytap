@@ -1,6 +1,6 @@
 // Fonts
-$primary-font: "PRIMARY-FONT-NAME", Helvetica, sans-serif;
-$secondary-font: "SECONDARY-FONT-NAME", Helvetica, sans-serif;
+$primary-font: "Nunito Sans", sans-serif;
+$secondary-font: "Akaya Kanadaka", cursive;
 
 // Font Awesome
 $fa-font-path: "../../assets/fonts" !default;
@@ -61,8 +61,7 @@ $enable-shadows: true !default;
 $enable-responsive-font-sizes: true;
 
 // Bootstrap Icons - fonts
-$bootstrap-icons-font-src: url("../fonts/bootstrap-icons.woff2") format("woff2"),
-    url("../fonts/bootstrap-icons.woff") format("woff") !default;
+$bootstrap-icons-font-src: url("../fonts/bootstrap-icons.woff2") format("woff2"), url("../fonts/bootstrap-icons.woff") format("woff") !default;
 
 // scss-docs-start position-map
 $position-values: (
@@ -70,7 +69,7 @@ $position-values: (
     50: 50%,
     100: 100%,
     auto: auto,
-    ) !default;
+) !default;
 // scss-docs-end position-map
 
 // scss-docs-start grid-breakpoints
@@ -84,7 +83,7 @@ $grid-breakpoints: (
     xxl2: 1600px,
     xxl3: 1900px,
     xxl4: 2400px,
-    ) !default;
+) !default;
 // scss-docs-end grid-breakpoints
 
 // Grid containers
@@ -101,7 +100,7 @@ $container-max-widths: (
     xxl2: 1520px,
     xxl3: 1600px,
     // xxl4: 1600px,
-    ) !default;
+) !default;
 // scss-docs-end container-max-widths
 
 // Retina media query variable
