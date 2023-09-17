@@ -23,13 +23,13 @@ import modernizrInit from "./base/modernizr-webp.js";
 modernizrInit();
 
 /* ===================== COMPONENTS ===================== */
-import currentYear from "./components/current-year.js";
-currentYear();
+// import currentYear from "./components/current-year.js";
+// currentYear();
 
-import ehElementsInit from "./components/eh-elements.js";
-ehElementsInit();
+// import ehElementsInit from "./components/eh-elements.js";
+// ehElementsInit();
 
-import stickySideInit from "./components/sticky-sides.js";
+// import stickySideInit from "./components/sticky-sides.js";
 // stickySideInit();
 
 /* ======================== PAGES ======================= */
