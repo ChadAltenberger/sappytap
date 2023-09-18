@@ -226,6 +226,87 @@
       "q" : 80,
       "rq" : 75
     },
+    "\/src\/assets\/img\/icons\/android-chrome-192x192.png" : {
+      "ft" : 32768,
+      "iS" : 45347,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/icons\/android-chrome-192x192.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/icons\/android-chrome-512x512.png" : {
+      "ft" : 32768,
+      "iS" : 223155,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/icons\/android-chrome-512x512.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/icons\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 40224,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/icons\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/icons\/favicon-16x16.png" : {
+      "ft" : 32768,
+      "iS" : 792,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/icons\/favicon-16x16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/icons\/favicon-32x32.png" : {
+      "ft" : 32768,
+      "iS" : 2245,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/icons\/favicon-32x32.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
+    "\/src\/assets\/img\/icons\/favicon.ico" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/assets\/img\/icons\/favicon.ico",
+      "oF" : 0
+    },
+    "\/src\/assets\/img\/icons\/site.webmanifest" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/dist\/assets\/img\/icons\/site.webmanifest",
+      "oF" : 0
+    },
     "\/src\/assets\/img\/logos\/leaf-logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
