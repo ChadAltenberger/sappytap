@@ -154,6 +154,16 @@
       "q" : 80,
       "rq" : 75
     },
+    "\/src\/assets\/img\/dot-connector.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/dot-connector.svg",
+      "oF" : 0,
+      "opt" : 1,
+      "plM" : 3758088159,
+      "prP" : 0
+    },
     "\/src\/assets\/img\/drips.svg" : {
       "ft" : 2097152,
       "miP" : 0,
