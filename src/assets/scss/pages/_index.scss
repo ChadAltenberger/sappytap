@@ -143,6 +143,10 @@
 
             margin-top: 8rem;
 
+            @media #{$xxl4-up} {
+                margin-left: -10rem;
+            }
+
             img.connector {
                 position: absolute;
                 bottom: 102%;
@@ -169,7 +173,7 @@
                 }
 
                 @media #{$xxl4-up} {
-                    width: 15rem;
+                    width: 20rem;
                 }
             }
         }
