@@ -2,5 +2,9 @@ footer {
     img {
         margin-top: -5rem;
         width: 12rem;
+
+        @media (max-width: 500px) {
+            width: 9rem;
+        }
     }
 }

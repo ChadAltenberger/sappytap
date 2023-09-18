@@ -148,11 +148,21 @@
       "oAP" : "\/dist\/assets\/img\/bottle-and-can.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
-      "ou" : "lpckwebp-none",
+      "ou" : "lpckwebp-default",
       "q" : 80,
       "rq" : 75
+    },
+    "\/src\/assets\/img\/drips.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/assets\/img\/drips.svg",
+      "oF" : 0,
+      "opt" : 1,
+      "plM" : 3758088159,
+      "prP" : 0
     },
     "\/src\/assets\/img\/essence-bg-lg.jpg" : {
       "ft" : 16384,
@@ -162,8 +172,8 @@
       "oAP" : "\/dist\/assets\/img\/essence-bg-lg.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "q" : 80,
       "rq" : 75
     },
@@ -176,7 +186,7 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
-      "ou" : "lpckwebp-none",
+      "ou" : "lpckwebp-default",
       "q" : 80,
       "rq" : 75
     },
@@ -189,7 +199,7 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
-      "ou" : "lpckwebp-none",
+      "ou" : "lpckwebp-default",
       "q" : 80,
       "rq" : 75
     },
@@ -202,32 +212,9 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
-      "ou" : "lpckwebp-none",
+      "ou" : "lpckwebp-default",
       "q" : 80,
       "rq" : 75
-    },
-    "\/src\/assets\/img\/logos\/47C85E33C02782F7.png" : {
-      "ft" : 32768,
-      "iS" : 13142,
-      "oA" : 0,
-      "oAP" : "\/dist\/assets\/img\/logos\/47C85E33C02782F7.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 80,
-      "rq" : 75
-    },
-    "\/src\/assets\/img\/logos\/essence.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/assets\/img\/logos\/essence.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 3758088159,
-      "prP" : 0
     },
     "\/src\/assets\/img\/logos\/leaf-logo.svg" : {
       "ft" : 2097152,

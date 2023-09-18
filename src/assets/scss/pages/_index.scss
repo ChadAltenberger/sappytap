@@ -34,13 +34,21 @@
             transform: translateX(-50%);
             z-index: 2;
 
+            @media (max-width: 500px) {
+                width: 9rem;
+            }
+
             @media #{$xl-up} {
                 width: 12rem;
             }
         }
 
         img.word-mark {
-            width: 30rem;
+            width: 20rem;
+
+            @media #{$sm-up} {
+                width: 30rem;
+            }
 
             @media #{$xl-up} {
                 width: 40rem;
@@ -53,22 +61,74 @@
     }
 
     #essence {
+        position: relative;
         height: 90vh;
 
-        background: url(../img/essence-bg-sm.jpg) no-repeat center center / cover;
+        img.drips {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 101%;
+        }
 
-        @media #{$lg-up} {
-            background-image: url(../img/essence-bg-lg.jpg);
+        .webp & {
+            background: url(../img/essence-bg-sm.webp) no-repeat center center / cover;
+
+            @media #{$lg-up} {
+                background-image: url(../img/essence-bg-lg.webp);
+            }
+        }
+
+        .no-webp & {
+            background: url(../img/essence-bg-sm.jpg) no-repeat center center / cover;
+
+            @media #{$lg-up} {
+                background-image: url(../img/essence-bg-lg.jpg);
+            }
+        }
+
+        .col-lg-6 {
+            @media #{$xxl3-up} {
+                margin-right: -9rem;
+            }
+            @media #{$xxl4-up} {
+                margin-right: -14rem;
+            }
+
+            .mobile-border {
+                @media #{$lg-down} {
+                    border: 3px solid $white;
+                }
+            }
         }
     }
 
     #find {
         height: 90vh;
 
-        background: url(../img/find-bg-sm.jpg) no-repeat center center / cover;
+        .webp & {
+            background: url(../img/find-bg-sm.webp) no-repeat center center / cover;
 
-        @media #{$lg-up} {
-            background-image: url(../img/find-bg-lg.jpg);
+            @media #{$lg-up} {
+                background-image: url(../img/find-bg-lg.webp);
+            }
+        }
+
+        .no-webp & {
+            background: url(../img/find-bg-sm.jpg) no-repeat center center / cover;
+
+            @media #{$lg-up} {
+                background-image: url(../img/find-bg-lg.jpg);
+            }
+        }
+    }
+
+    #ourStory {
+        img.bottle-can {
+            margin-top: -12rem;
+            @media #{$md-up} {
+                // width: 30rem;
+            }
         }
     }
 }

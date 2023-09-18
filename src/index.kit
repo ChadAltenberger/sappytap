@@ -13,7 +13,7 @@
         <!-- *************************************************** -->
         <section id="header" class="py-0" style="height: 100vh;">
             <div id="videoContainer">
-                <video class="video-src-swap" data-vid-426="assets/video/header-vid-426.mp4" data-vid-640="assets/video/header-vid-640.mp4" data-vid-960="assets/video/header-vid-960.mp4" data-vid-1280="assets/video/header-vid-1280.mp4" type="video/mp4" webkit-playsinline="true" playsinline="true" autoplay loop muted></video>
+                <video class="video-src-swap" data-vid-640="assets/video/header-vid-640.mp4" data-vid-960="assets/video/header-vid-960.mp4" data-vid-1280="assets/video/header-vid-1280.mp4" type="video/mp4" webkit-playsinline="true" playsinline="true" autoplay loop muted></video>
             </div>
             <!-- Any content you want to display on top of video -->
             <div class="content">
@@ -25,11 +25,14 @@
         <!--                       ESSENCE                       -->
         <!-- *************************************************** -->
         <section id="essence">
+            <img src="assets/img/drips.svg" alt="Sap drips" class="drips d-lg-none">
             <div class="container h-100 d-flex align-items-center">
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
-                        <h1 class="display-2">It's essence from a tree...</h1>
-                        <p class="text-primary lead fs-3">On a crisp evening out by the camp fire. Crack open the taste of fall with a Sappy Tap Maple Amber Ale. With barley, a hint of maple Happy you will be. For this beer has a mighty bark And just a wee bite, you'll see.</p>
+                        <div class="mobile-border p-3 p-lg-0 text-center text-lg-start">
+                            <h1 class="display-2 text-white">It's essence from a tree...</h1>
+                            <p class="text-white lead fs-3">On a crisp evening out by the camp fire. Crack open the taste of fall with a Sappy Tap Maple Amber Ale. With barley, a hint of maple Happy you will be. For this beer has a mighty bark And just a wee bite, you'll see.</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -41,9 +44,9 @@
             <div class="container h-100 d-flex align-items-center">
                 <div class="row">
                     <div class="col d-flex align-items-center">
-                        <img src="assets/img/logos/tap-handle.png" alt="Tap handle" class="img-fluid w-10">
-                        <div>
-                            <h1 class="display-2">Find a Tap</h1>
+                        <img src="assets/img/logos/tap-handle.png" alt="Tap handle" class="img-fluid w-15 w-sm-10">
+                        <div class="ms-2">
+                            <h1 class="display-2 text-white">Find a Tap</h1>
                             <form>
                                 <div class="mb-3">
                                     <input type="search" class="form-control" id="inputSearch" aria-describedby="search" placeholder="Search locations">
@@ -60,8 +63,16 @@
         <section id="ourStory">
             <div class="container">
                 <div class="row">
-                    <div class="col">
-                        <h1 class="display-2 text-secondary">Our Story</h1>
+                    <div class="col-md-4">
+                        <picture>
+                            <source srcset="assets/img/bottle-and-can.webp" type="image/webp">
+                            <source srcset="assets/img/bottle-and-can.png" type="image/png">
+                            <img src="assets/img/bottle-and-can.png" alt="Beer bottle and can" class="img-fluid bottle-can">
+                        </picture>
+                    </div>
+                    <div class="col-md-8 d-flex flex-column justify-content-center">
+                        <h1 class="display-2 text-primary">Our Story</h1>
+                        <p class="text-secondary lead fs-3">Born from the idea that beer should be a touch sweet, full-bodied and easy to drink. Master Brewer, Chad Altenberger had a vision for the perfect Fall brew: Hints of maple, the bit of bourbon and a smooth taste.</p>
                     </div>
                 </div>
             </div>
